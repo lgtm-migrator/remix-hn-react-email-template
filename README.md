@@ -21,3 +21,8 @@ src
  - - 
 
  ```
+
+## React Design System
+- [React Design System](https://llazyemail.github.io/documentation/docs/React-Design-System)
+- [React-section](https://llazyemail.github.io/documentation/docs/React-Design-System/React-section)
+- [React tasks](https://llazyemail.github.io/documentation/docs/React-Design-System/react-tasks)
